@@ -1,0 +1,42 @@
+{
+  "businessName": "Fayofeyi Multiconcept Nig Limited",
+  "industry": "Building Materials & Financial Services",
+  "tone": "professional and trustworthy",
+  "tagline": "Your Trusted Partner for Quality Building Materials and Payment Solutions",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Fayofeyi Multiconcept Nig Limited - Building Dreams, Enabling Transactions. We are your one-stop destination for premium building materials including cement, blocks, rings, and reliable POS services in Egbeda, Ibadan. Quality products, competitive prices, and exceptional service guaranteed.",
+      "imagePrompt": "Professional wide-angle photograph of a well-organized Nigerian building materials depot with neatly stacked cement bags, concrete blocks arranged in rows, and drainage rings displayed prominently. Modern POS terminal visible in the foreground. Bright daylight, clean organized warehouse environment, workers in safety vests in background, Ibadan architectural style visible, warm natural lighting, high resolution, business photography style",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Fayofeyi Multiconcept Nig Limited is a leading provider of quality building materials and financial services in Egbeda, Ibadan, Oyo State. We specialize in supplying premium cement, durable concrete blocks, drainage rings, and offer convenient POS services for seamless transactions. Our commitment is to provide construction professionals, homeowners, and businesses with reliable products at competitive prices. With our strategic location at Fasade, Egbeda, we serve the entire Ibadan metropolis and surrounding areas. We understand the Nigerian construction landscape and are dedicated to supporting your building projects from foundation to finish, while also making payments easier with our POS services.",
+      "imagePrompt": "Aerial view of a bustling Nigerian building materials supply yard in Ibadan showing organized inventory of cement bags, blocks, and rings. Clean modern office section with POS services visible. Professional staff attending to customers, delivery trucks loading materials, typical Oyo State architectural elements in background, golden hour lighting, documentary photography style, 4K resolution",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Products & Services",
+      "copy": "**Premium Cement Supply** - We stock major trusted cement brands suitable for all construction needs, from residential buildings to commercial projects. Wholesale and retail quantities available.\n\n**Quality Concrete Blocks** - Durable, well-cured blocks in various sizes (6 inches, 9 inches) perfect for building strong, lasting structures. Factory-quality standards guaranteed.\n\n**Drainage Rings** - Heavy-duty concrete rings for soakaway construction and drainage systems. Various diameters available to meet your specific project requirements.\n\n**POS Services** - Convenient payment solutions for all your transactions. Accept cards, make transfers, and conduct cashless business operations seamlessly. Quick, secure, and reliable.",
+      "imagePrompt": "Professional grid layout photograph showing four distinct sections: premium cement bags stacked with brand labels visible, perfectly aligned concrete blocks showing quality texture, large drainage rings displayed vertically, and a modern POS terminal processing a transaction. Nigerian business environment, professional product photography, clean white background separating each section, bright studio lighting, ultra-sharp focus, commercial photography quality",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to start your building project or need materials delivered? Get in touch with Fayofeyi Multiconcept Nig Limited today. Visit our depot at Fasade, Egbeda, Ibadan, Oyo State, or call us for quotes, bulk orders, and delivery arrangements. We're here to serve you with quality products and excellent customer service. Our POS services are also available for your convenience.",
+      "imagePrompt": "Welcoming photograph of a Nigerian building materials shop entrance in Egbeda, Ibadan with clear signage showing Fayofeyi Multiconcept. Friendly staff member standing at entrance, materials visible through open doors, customers' vehicles parked outside, typical Ibadan street scene, afternoon lighting, professional business photography, inviting atmosphere, warm colors",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "07039183124",
+    "email": "info@fayofeyimulticoncept.com.ng",
+    "address": "Fasade, Egbeda, Ibadan, Oyo State, Nigeria",
+    "whatsapp": "https://wa.me/2347039183124"
+  }
+}
